@@ -188,7 +188,7 @@ $packageArgs = @{
   fileType      = 'exe' 
   url           = $url 
   softwareName  = 'dbForge Documenter for SQL Server, v1.7.4' 
-  packageName   = 'dbForge Documenter for SQL Server, v1.7.4
+  packageName   = 'dbForge Documenter for SQL Server, v1.7.4'
   checksum      = '263562710C653DDAAD3B2B59656067EB86143BE89E8B66C3D6BBA9BD4656D55E'
   checksumType  = 'sha256' 
   silentArgs    = '/VERYSILENT /FORCECLOSEAPPLICATIONS /ngen=0'
