@@ -2,7 +2,7 @@
 <package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
     <metadata>
         <id>dbforge-sql-tools</id>
-        <version>6.2.2.20220612</version>
+        <version>6.2.3.20220721</version>
         <title>dbForge SQL Tools Professional</title>
         <description>A set of SSMS enhancements for complete performance 
 dbForge SQL Tools is a set of 15 solutions integrated with SSMS to enhance its functionality and make it a complete solution. With these add-ons, users can get all the functionality that the SSMS IDE lacks in a habitual interface. It improves the existing capacities of TSQL code writing and refactoring, handling database objects, documenting the databases, implementing DevOps, and provides many more options. 
