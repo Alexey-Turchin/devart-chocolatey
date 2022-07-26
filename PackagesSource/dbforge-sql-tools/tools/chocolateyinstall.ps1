@@ -16,7 +16,7 @@ $packageArgs = @{
 }
 Install-ChocolateyPackage @packageArgs
 #unittest
-$url        = 'http://choco.devart.com/s/046444B3FCF91CB2868EDF10D214A67615268C300A84F1FA4FA85C70F60F8966/unittestsql18.exe' 
+$url        = 'https://choco.devart.com/s/046444B3FCF91CB2868EDF10D214A67615268C300A84F1FA4FA85C70F60F8966/unittestsql18.exe' 
 $packageArgs = @{
 #  packageName   = $env:ChocolateyPackageName
   unzipLocation = $toolsDir
@@ -61,7 +61,7 @@ $packageArgs = @{
 }
 Install-ChocolateyPackage @packageArgs 
 #Search
-$url        = 'http://choco.devart.com/s/35EA7D1D56D43CEE3974A55E2C72855E414B8168802E1F3E51F0BDFC015162CB/searchsql27.exe' 
+$url        = 'https://choco.devart.com/s/35EA7D1D56D43CEE3974A55E2C72855E414B8168802E1F3E51F0BDFC015162CB/searchsql27.exe' 
 $packageArgs = @{
 #  packageName   = $env:ChocolateyPackageName
   unzipLocation = $toolsDir
@@ -76,7 +76,7 @@ $packageArgs = @{
 }
 Install-ChocolateyPackage @packageArgs 
 #Monitor
-$url        = 'http://choco.devart.com/s/5B4EE42556DD1626D2A3F59CCB6034DA1E4B0B051527F8531408DF82F1F8DC7F/monitorsql15.exe' 
+$url        = 'https://choco.devart.com/s/5B4EE42556DD1626D2A3F59CCB6034DA1E4B0B051527F8531408DF82F1F8DC7F/monitorsql15.exe' 
 $packageArgs = @{
 #  packageName   = $env:ChocolateyPackageName
   unzipLocation = $toolsDir
@@ -91,7 +91,7 @@ $packageArgs = @{
 }
 Install-ChocolateyPackage @packageArgs 
 #IndexManager
-$url        = 'http://choco.devart.com/s/34040BA5AF588EA81212525C5A56309736F757A4BD51153F7385BC6E97FFAE52/indexmanagersql113.exe' 
+$url        = 'https://choco.devart.com/s/34040BA5AF588EA81212525C5A56309736F757A4BD51153F7385BC6E97FFAE52/indexmanagersql113.exe' 
 $packageArgs = @{
 #  packageName   = $env:ChocolateyPackageName
   unzipLocation = $toolsDir
@@ -106,7 +106,7 @@ $packageArgs = @{
 }
 Install-ChocolateyPackage @packageArgs 
 #Datapump
-$url        = 'http://choco.devart.com/s/54A64E122E312F73817F70A94DA08D8BE77F7A20FDD42231C6FCA4E3FDBAD475/datapumpsql18.exe' 
+$url        = 'https://choco.devart.com/s/54A64E122E312F73817F70A94DA08D8BE77F7A20FDD42231C6FCA4E3FDBAD475/datapumpsql18.exe' 
 $packageArgs = @{
 #  packageName   = $env:ChocolateyPackageName
   unzipLocation = $toolsDir
@@ -121,7 +121,7 @@ $packageArgs = @{
 }
 Install-ChocolateyPackage @packageArgs 
 #Schema Compare
-$url        = 'http://choco.devart.com/s/F89018ECE0EB25EC6025D1E91886AA580B80D8B4DC3280E71C67D2A34705B9BB/schemacomparesql53.exe' 
+$url        = 'https://choco.devart.com/s/F89018ECE0EB25EC6025D1E91886AA580B80D8B4DC3280E71C67D2A34705B9BB/schemacomparesql53.exe' 
 $packageArgs = @{
 #  packageName   = $env:ChocolateyPackageName
   unzipLocation = $toolsDir
@@ -136,7 +136,7 @@ $packageArgs = @{
 }
 Install-ChocolateyPackage @packageArgs
 #Query Builder
-$url        = 'http://choco.devart.com/s/E87F030FC8A24C85ACD0A56B368C7F6E864C49FB41F63B001F9C93BF299790F3/qbuildersql42.exe' 
+$url        = 'https://choco.devart.com/s/E87F030FC8A24C85ACD0A56B368C7F6E864C49FB41F63B001F9C93BF299790F3/qbuildersql42.exe' 
 $packageArgs = @{
 #  packageName   = $env:ChocolateyPackageName
   unzipLocation = $toolsDir
@@ -151,7 +151,7 @@ $packageArgs = @{
 }
 Install-ChocolateyPackage @packageArgs
 #Devops
-$url        = 'httpss://choco.devart.com/s/D1BF0BAD5745CCAF7B2D00E6E4CC497592E00CD3087A55E47B026B69663D7283/devopspowershellsql17.exe' 
+$url        = 'https://choco.devart.com/s/D1BF0BAD5745CCAF7B2D00E6E4CC497592E00CD3087A55E47B026B69663D7283/devopspowershellsql17.exe' 
 $packageArgs = @{
 #  packageName   = $env:ChocolateyPackageName
   unzipLocation = $toolsDir
@@ -166,7 +166,7 @@ $packageArgs = @{
 }
 Install-ChocolateyPackage @packageArgs 
 #Event Profiler
-$url        = 'http://choco.devart.com/s/F4303CCEB50DF8C3B3222B63206D2C092B1FD3445203BE05C9E8FD4128FCE9BD/eventprofilersql18.exe' 
+$url        = 'https://choco.devart.com/s/F4303CCEB50DF8C3B3222B63206D2C092B1FD3445203BE05C9E8FD4128FCE9BD/eventprofilersql18.exe' 
 $packageArgs = @{
 #  packageName   = $env:ChocolateyPackageName
   unzipLocation = $toolsDir
@@ -181,7 +181,7 @@ $packageArgs = @{
 }
 Install-ChocolateyPackage @packageArgs
 #Documenter
-$url        = 'http://choco.devart.com/s/D44A4A1767158842C230C8015D10D76D6DE0CA70F431BF2D1B6D7F5EA97547B0/documentersql17.exe' 
+$url        = 'https://choco.devart.com/s/D44A4A1767158842C230C8015D10D76D6DE0CA70F431BF2D1B6D7F5EA97547B0/documentersql17.exe' 
 $packageArgs = @{
 #  packageName   = $env:ChocolateyPackageName
   unzipLocation = $toolsDir
@@ -196,7 +196,7 @@ $packageArgs = @{
 }
 Install-ChocolateyPackage @packageArgs
 #Data Generator
-$url        = 'http://choco.devart.com/s/53C53331B5CBDCE7092D3A0B0832BAF38EB7E3E6AA1028915AA38745E452B0E4/datageneratorsql45.exe' 
+$url        = 'https://choco.devart.com/s/53C53331B5CBDCE7092D3A0B0832BAF38EB7E3E6AA1028915AA38745E452B0E4/datageneratorsql45.exe' 
 $packageArgs = @{
 #  packageName   = $env:ChocolateyPackageName
   unzipLocation = $toolsDir
@@ -211,7 +211,7 @@ $packageArgs = @{
 }
 Install-ChocolateyPackage @packageArgs 
 #Data Compare
-$url        = 'http://choco.devart.com/s/3FC6B068458847B68339C0AE82F06BA503223DF5FA630A88929ACDBEB6B79622/datacomparesql53.exe' 
+$url        = 'https://choco.devart.com/s/3FC6B068458847B68339C0AE82F06BA503223DF5FA630A88929ACDBEB6B79622/datacomparesql53.exe' 
 $packageArgs = @{
 #  packageName   = $env:ChocolateyPackageName
   unzipLocation = $toolsDir
